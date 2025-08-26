@@ -1,10 +1,10 @@
 # 💳 Real-Time Credit Card Fraud Detection System
 
-![Project Banner](https://user-images.githubusercontent.com/86121338/182370359-2735f11a-1b55-4630-9759-5f7276185890.png)
+<img width="1881" height="1030" alt="Image" src="https://github.com/user-attachments/assets/57a5b448-68ea-4ac4-a0d3-1b7d6c75eba2" />
 
 A comprehensive machine learning project that identifies fraudulent credit card transactions in real-time. This system includes a complete pipeline from data preprocessing and feature engineering to model training and deployment with an interactive user interface.
 
-**[Link to Live Demo]** `(<- Add the link to your deployed Streamlit app here!)`
+**[Link to Live Demo](https://fraud-detection-system-vivekm1.streamlit.app)**
 
 ---
 
