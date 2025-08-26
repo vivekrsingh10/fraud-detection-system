@@ -26,7 +26,7 @@ Credit card fraud is a major concern for financial institutions, leading to sign
 This project tackles the problem by leveraging a powerful **XGBoost classification model**. The model is trained on a highly imbalanced dataset and is deployed via a **Streamlit** web application, which serves as a dashboard for financial investigators to monitor and act on suspicious activity alerts. The entire application is containerized using **Docker** for portability and ease of deployment.
 
 
-*(A screenshot of your Streamlit app's main interface)*
+<img width="1912" height="1040" alt="Image" src="https://github.com/user-attachments/assets/8cdd90fb-7c3b-46c4-aa56-a14067f26b68" />
 
 ---
 
