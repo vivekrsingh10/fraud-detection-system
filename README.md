@@ -4,7 +4,7 @@
 
 A comprehensive machine learning project that identifies fraudulent credit card transactions in real-time. This system includes a complete pipeline from data preprocessing and feature engineering to model training and deployment with an interactive user interface.
 
-**[Link to Live Demo](https://fraud-detection-system-vivekm1.streamlit.app)**
+**[Link to Live Demo](https://fraud-detection-system-vivekml.streamlit.app)**
 
 ---
 
